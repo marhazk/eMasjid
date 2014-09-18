@@ -549,7 +549,15 @@ Time:
       <td width="58%">&nbsp;</td>
     </tr>
     <tr>
-      <td height="500" colspan="3" valign="top"><textarea name="edesc" id="edesc" cols="80" rows="30"></textarea></td>
+      <td height="500" colspan="3" valign="top">
+      <label for="textarea"></label>
+<script type="text/javascript" src="./images/nicEdit.js"></script>
+<script type="text/javascript">
+	bkLib.onDomLoaded(function() { nicEditors.allTextAreas() });
+</script>
+<span id="sprytextarea1">
+<textarea name="edesc" cols="80" rows="30" id="pMsg"></textarea>
+</td>
     </tr>
     <tr>
       <td width="40%">&nbsp;</td>

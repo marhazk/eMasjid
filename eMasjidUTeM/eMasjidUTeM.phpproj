@@ -688,6 +688,7 @@
     <Content Include="management\images\scratch-disk.png" />
     <Content Include="management\images\system.css" />
     <Content Include="management\images\template.css" />
+    <Content Include="management\images\text.js" />
     <Content Include="management\images\top.png" />
     <Content Include="management\images\update.png" />
     <Content Include="management\images\view.png" />

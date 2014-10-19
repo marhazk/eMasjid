@@ -2,12 +2,13 @@
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-    <Name>eMasjidUTeM</Name>
+    <Name>utem</Name>
     <ProjectGuid>aa975c4d-09d4-4db4-94a7-5d97df6626e9</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>eMasjidUTeM</RootNamespace>
     <ProjectTypeGuids>{A0786B88-2ADB-4C21-ABE8-AA2D79766269}</ProjectTypeGuids>
     <AssemblyName>eMasjidUTeM</AssemblyName>
+    <ProjectHome />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <IncludeDebugInformation>true</IncludeDebugInformation>
@@ -16,7 +17,6 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="index.php" />
     <Compile Include="management\file.php" />
     <Compile Include="management\greet.php" />
     <Compile Include="management\index.php" />

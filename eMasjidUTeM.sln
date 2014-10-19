@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "eMasjidUTeM", "eMasjidUTeM\eMasjidUTeM.phpproj", "{AA975C4D-09D4-4DB4-94A7-5D97DF6626E9}"
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "utem", "eMasjidUTeM\utem.phpproj", "{AA975C4D-09D4-4DB4-94A7-5D97DF6626E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
